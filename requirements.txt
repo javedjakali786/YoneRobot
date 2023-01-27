@@ -26,4 +26,3 @@ telegraph
 wikipedia
 opencv-python--headless
 gtts
-kora
